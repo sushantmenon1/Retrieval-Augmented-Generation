@@ -10,6 +10,8 @@ A RAG Application consists of mainly 3 components.
  - A vector Database to store the context embeddings. (Pinecone)
  - An embedding model for the contexts. (Sentence Transformer)
 
+![rag-f517f1f834bdbb94a87765e0edd40ff2](https://github.com/sushantmenon1/Retrieval-Augmented-Generation/assets/74258021/5a465b2d-afd7-40c3-86aa-8dbef442090b)
+
 ### Google Flan T5
 If you already know T5, FLAN-T5 is just better at everything. For the same number of parameters, these models have been fine-tuned on more than 1000 additional tasks covering also more languages.
 
